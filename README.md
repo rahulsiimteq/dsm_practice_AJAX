@@ -1,1 +1,6 @@
-# dsm_practice_AJAX
+# DSM_Practice_AJAX
+
+- ``Certified Diamond``
+- ``Black Diamond``
+- ``Fancy Diamond``
+- ``Matching Pair``
